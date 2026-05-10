@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "NightfallSmp-9xFw.aternos.me:28612",
+    "port": 28612,
     "version": "",
     "try-creative": false
   },
