@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Nightfall",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Julian200770-lapc.aternos.me:57876",
-    "port": 57876,
+    "ip": "NightfallSmp-9xFw.aternos.me:28612",
+    "port": 28612,
     "version": "",
     "try-creative": false
   },
