@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NightfallSmp-9xFw.aternos.me:28612",
+    "ip": "NightfallSmp-9xFw.aternos.me",
     "port": 28612,
     "version": "",
     "try-creative": false
