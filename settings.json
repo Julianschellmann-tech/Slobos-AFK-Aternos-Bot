@@ -38,8 +38,8 @@
     },
     "chat-log": true,
     "auto-reconnect": false,
-    "auto-reconnect-delay": 20000000000,
-    "max-reconnect-delay": 120
+    "auto-reconnect-delay": 2000,
+    "max-reconnect-delay": 12000000
   },
   "movement": {
     "enabled": true,
