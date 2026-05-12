@@ -9,7 +9,7 @@
     "ip": "NightfallSmp-9xFw.aternos.me",
     "port": 28612,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
